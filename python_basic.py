@@ -13,11 +13,11 @@ print(7 % 3)
 print(a // b)
 print(7 // 3)
 
-s1 = 'Hello Python'
+s1 = 'Messi is the best'
 print(s1)
 
-s3 = '''Hello 
-Python'''
+s3 = '''Messi 
+is the best'''
 print(s3)
 
 head = "Python"
