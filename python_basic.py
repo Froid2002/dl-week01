@@ -45,12 +45,12 @@ print(a[:3])
 print(a[7:-11])
 
 # 문자 개수 계산
-a = "Python"
-print(a.count('p'))
+a = "Froid"
+print(a.count('f'))
 
 # 문자 위치 확인
 print(a.find('y'))
-print(a.find('p'))
+print(a.find('f'))
 print(a.index('y'))
 # print(a.index('p')) # 오류 발생
 
