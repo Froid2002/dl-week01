@@ -186,7 +186,7 @@ dic = {'name':'Froid', 'phone':'01052480601', 'birth':'1006'}
 dic[1] = 'a'
 print(dic)
 
-dic['pet'] = 'dog'
+dic['pet'] = 'Lyon'
 print(dic)
 
 # 원소 삭제
