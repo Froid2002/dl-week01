@@ -20,8 +20,8 @@ s3 = '''Messi
 is the best'''
 print(s3)
 
-head = "Python"
-tail = " is fun"
+head = "Messi"
+tail = "is the best"
 print(head + tail)
 
 # 문자열 곱하기
